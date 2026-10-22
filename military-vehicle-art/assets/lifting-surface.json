@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "object_name": "ConstructedWing_R",
+  "collection": "ConstructedLiftingSurfaces_R",
+  "airfoil": {"kind": "naca4_vertical", "samples": 33},
+  "placement": {"origin": [0, 0, 0], "rotation_degrees": [0, 0, 0]},
+  "stations": [
+    {"span": 0, "leading_edge": [0, 0], "chord": 2.4, "twist_degrees": 0,
+     "profile": {"thickness": 0.12, "camber": 0.02, "camber_position": 0.4}},
+    {"span": 2.5, "leading_edge": [0.65, 0.18], "chord": 1.7, "twist_degrees": -1,
+     "profile": {"thickness": 0.10, "camber": 0.015, "camber_position": 0.4}},
+    {"span": 5.2, "leading_edge": [1.8, 0.44], "chord": 0.8, "twist_degrees": -2,
+     "profile": {"thickness": 0.09, "camber": 0.01, "camber_position": 0.4}}
+  ]
+}

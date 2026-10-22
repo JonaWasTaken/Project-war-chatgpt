@@ -1,0 +1,25 @@
+{
+  "schema_version": 1,
+  "render": {
+    "schema_version": 1,
+    "camera": null,
+    "collection": null,
+    "resolution": [null, null],
+    "samples": null,
+    "registration_note": null
+  },
+  "profiles": [
+    {
+      "label": "neutral",
+      "world_color": [null, null, null],
+      "world_strength": null,
+      "lights": [{"position": [null, null, null], "target": [null, null, null], "power_w": null, "size": null, "color": [null, null, null]}]
+    },
+    {
+      "label": "grazing",
+      "world_color": [null, null, null],
+      "world_strength": null,
+      "lights": [{"position": [null, null, null], "target": [null, null, null], "power_w": null, "size": null, "color": [null, null, null]}]
+    }
+  ]
+}

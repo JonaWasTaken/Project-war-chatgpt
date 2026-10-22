@@ -1,0 +1,16 @@
+{
+  "schema_version": 1,
+  "intent": "",
+  "objective": "",
+  "baseline_sha256": "",
+  "originality_statement": "",
+  "brief": {"path": "", "sha256": ""},
+  "reference_images": [],
+  "approval": {
+    "status": "pending",
+    "gate": "concept",
+    "reference": "",
+    "scope": "",
+    "evidence": {"path": "", "sha256": ""}
+  }
+}

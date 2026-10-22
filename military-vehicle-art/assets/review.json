@@ -1,0 +1,59 @@
+{
+  "schema_version": 2,
+  "source": {"path": "", "version": "", "sha256": ""},
+  "required_views": ["front", "side", "top", "three_quarter"],
+  "motion_required": false,
+  "gate": "blockout",
+  "model_version": "",
+  "evidence": [],
+  "coverage": {
+    "silhouette": {
+      "status": "blocked",
+      "reason": "Not reviewed yet",
+      "evidence_paths": []
+    },
+    "proportions": {
+      "status": "blocked",
+      "reason": "Not reviewed yet",
+      "evidence_paths": []
+    },
+    "fit": {
+      "status": "blocked",
+      "reason": "Not reviewed yet",
+      "evidence_paths": []
+    },
+    "shading": {
+      "status": "blocked",
+      "reason": "Not reviewed yet",
+      "evidence_paths": []
+    },
+    "materials": {
+      "status": "blocked",
+      "reason": "Not reviewed yet",
+      "evidence_paths": []
+    },
+    "readability": {
+      "status": "blocked",
+      "reason": "Not reviewed yet",
+      "evidence_paths": []
+    },
+    "motion": {
+      "status": "blocked",
+      "reason": "Not reviewed yet",
+      "evidence_paths": []
+    },
+    "regression": {
+      "status": "blocked",
+      "reason": "Not reviewed yet",
+      "evidence_paths": []
+    }
+  },
+  "defects": [],
+  "approval": {
+    "status": "pending",
+    "reference": "",
+    "scope": "",
+    "model_version": "",
+    "gate": "blockout"
+  }
+}

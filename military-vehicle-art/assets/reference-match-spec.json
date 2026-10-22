@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "reference": {
+    "path": null,
+    "sha256": null,
+    "mask_path": null,
+    "mask_sha256": null,
+    "foreground": "light",
+    "source_note": null
+  },
+  "model": {
+    "path": null,
+    "sha256": null,
+    "foreground": "dark",
+    "source_path": null,
+    "source_sha256": null
+  },
+  "registration": {
+    "confirmed": false,
+    "note": null
+  },
+  "features": []
+}

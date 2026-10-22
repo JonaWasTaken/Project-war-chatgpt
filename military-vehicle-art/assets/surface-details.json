@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "collection": "REPLACE_NEW_DETAIL_COLLECTION",
+  "master": {
+    "object": null,
+    "attachment_origin": null,
+    "normal_axis": "+Z",
+    "tangent_axis": "+X"
+  },
+  "placements": []
+}

@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "materials": [
+    {
+      "name": null,
+      "uv_map": null,
+      "base_color": {
+        "path": null,
+        "sha256": null,
+        "size": [null, null]
+      },
+      "roughness": {
+        "path": null,
+        "sha256": null,
+        "size": [null, null]
+      },
+      "metallic": {
+        "path": null,
+        "sha256": null,
+        "size": [null, null]
+      },
+      "normal": {
+        "path": null,
+        "sha256": null,
+        "size": [null, null],
+        "convention": null
+      }
+    }
+  ],
+  "bindings": [
+    {
+      "object": null,
+      "material": null,
+      "slot": null
+    }
+  ]
+}

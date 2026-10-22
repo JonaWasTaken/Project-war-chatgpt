@@ -1,0 +1,26 @@
+{
+  "schema_version": 1,
+  "targets": [
+    {
+      "object": null,
+      "shared_mesh": "reject",
+      "uv": {
+        "name": null,
+        "method": "smart_project",
+        "angle_limit_degrees": null,
+        "island_margin": null
+      },
+      "bevel": {
+        "name": null,
+        "width": null,
+        "segments": null,
+        "angle_degrees": null,
+        "clamp_overlap": null
+      },
+      "shading": {
+        "mode": "smooth_by_angle",
+        "angle_degrees": null
+      }
+    }
+  ]
+}

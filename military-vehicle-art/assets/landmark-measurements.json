@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "model_version": "",
+  "reference_version": "",
+  "view": "",
+  "alignment_confirmed": false,
+  "alignment_note": "",
+  "reference_size": null,
+  "model_size": null,
+  "tolerance_px": null,
+  "tolerance_basis": "",
+  "landmarks": []
+}

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Blender Asset Production"
+  short_description: "Blender props, products, environments and vehicle art"
+  default_prompt: "Use $military-vehicle-art to build or refine a coherent Blender asset: choose original-design or reconstruction intent, preserve sources, finish deliberate forms and surfaces, inspect actual renders, and verify the requested delivery."

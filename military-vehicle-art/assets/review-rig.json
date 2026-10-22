@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "collection": null,
+  "resolution": [768, 768],
+  "samples": 48,
+  "modes": ["clay", "material", "silhouette"],
+  "preview_frame_heights": [96, 192],
+  "exposure": 0,
+  "world_strength": 0.35,
+  "frame": null,
+  "views": [
+    {"name": "front", "direction": [0, 1, 0]},
+    {"name": "side", "direction": [-1, 0, 0]},
+    {"name": "top", "direction": [0, 0, 1]},
+    {"name": "three_quarter", "direction": [-1, 1, 0.7]}
+  ]
+}

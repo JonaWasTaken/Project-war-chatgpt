@@ -1,0 +1,45 @@
+{
+  "schema_version": 1,
+  "job_name": null,
+  "mode": null,
+  "asset_intent": null,
+  "category": null,
+  "identity_variant": null,
+  "style": null,
+  "deliverable_class": null,
+  "closest_view": null,
+  "tools": {},
+  "design_lock": {
+    "concept_path": null,
+    "version": null,
+    "invariants": [],
+    "approvals": []
+  },
+  "references": [],
+  "coordinate_contract": {
+    "units": null,
+    "forward_axis": null,
+    "up_axis": null,
+    "origin": null,
+    "ground": null
+  },
+  "dimensions": [],
+  "assemblies": [],
+  "materials": [],
+  "required_motion": [],
+  "export_requirements": [],
+  "performance_constraints": {},
+  "art_direction": {"anchor_assembly": null, "edge_language": null, "material_palette": [], "detail_scale": null},
+  "review_rig": {"cameras": [], "lighting_version": null, "exposure": null, "colour_management": null},
+  "numerical_checks": {"landmark_input": null, "assembly_input": null, "tolerance_approval": null},
+  "required_views_by_gate": {},
+  "checkpoint": {
+    "source_path": null,
+    "version": null,
+    "stage": null,
+    "last_review": null,
+    "open_defects": [],
+    "next_action": null,
+    "pending_approvals": []
+  }
+}

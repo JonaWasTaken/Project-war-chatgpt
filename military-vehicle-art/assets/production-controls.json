@@ -1,0 +1,51 @@
+{
+  "schema_version": 1,
+  "note": "Optional working notes, not an approval or validator input. Null and empty mean unestablished.",
+  "quality_target": {
+    "asset_role": null,
+    "art_style": null,
+    "modeling_reference": null,
+    "material_reference": null,
+    "reference_rights_note": null,
+    "target_object_pixel_height": null,
+    "target_vehicle_pixel_height": null,
+    "legacy_field_note": "target_vehicle_pixel_height is retained for existing notes; prefer target_object_pixel_height for new general assets.",
+    "target_camera": null,
+    "expected_simultaneous_units": null,
+    "performance_budget_basis": null
+  },
+  "feature_ledger": [],
+  "feature_entry_fields": ["id", "assembly", "visible_feature", "source_url_or_path", "source_region", "variant", "evidence_status", "decision", "uncertainty"],
+  "benchmark_patch": {
+    "assembly": null,
+    "why_representative": null,
+    "geometry_language": null,
+    "material_roles": [],
+    "review_evidence": [],
+    "acceptance": null
+  },
+  "active_experiment": {
+    "defect_id": null,
+    "observation": null,
+    "likely_cause": null,
+    "alternative_cause": null,
+    "test": null,
+    "predicted_visible_change": null,
+    "affected_assemblies": [],
+    "before_manifest": null,
+    "after_manifest": null,
+    "regression_views": [],
+    "result": null,
+    "keep_or_revert": null
+  },
+  "engine_readiness": {
+    "engine_version": null,
+    "tested_export": null,
+    "gameplay_capture": null,
+    "motion_capture": null,
+    "multi_background_capture": null,
+    "lod_capture": null,
+    "performance_capture": null,
+    "unverified": []
+  }
+}

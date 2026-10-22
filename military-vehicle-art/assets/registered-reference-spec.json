@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "reference": {
+    "path": "",
+    "sha256": "",
+    "mask_path": "",
+    "mask_sha256": "",
+    "foreground": "light",
+    "source_note": ""
+  },
+  "registration": {
+    "confirmed": false,
+    "note": ""
+  },
+  "features": [
+    {
+      "id": "REPLACE_WITH_ACTUAL_VISIBLE_FEATURE",
+      "visibility": "visible",
+      "assessment": "unverified",
+      "region": null,
+      "note": ""
+    }
+  ]
+}

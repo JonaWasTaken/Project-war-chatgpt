@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "camera": "PhotoCamera",
+  "photo": {
+    "path": "REPLACE_WITH_ACTUAL_PHOTO_PATH",
+    "sha256": "",
+    "size": [null, null]
+  },
+  "lens": {"mode": "fixed", "millimeters": 50},
+  "landmarks": [
+    {"object": "Landmark_Fit_01", "role": "fit", "pixel": [null, null]},
+    {"object": "Landmark_Fit_02", "role": "fit", "pixel": [null, null]},
+    {"object": "Landmark_Fit_03", "role": "fit", "pixel": [null, null]},
+    {"object": "Landmark_Fit_04", "role": "fit", "pixel": [null, null]},
+    {"object": "Landmark_Fit_05", "role": "fit", "pixel": [null, null]},
+    {"object": "Landmark_Fit_06", "role": "fit", "pixel": [null, null]},
+    {"object": "Landmark_Holdout_01", "role": "holdout", "pixel": [null, null]},
+    {"object": "Landmark_Holdout_02", "role": "holdout", "pixel": [null, null]}
+  ],
+  "solver": {"max_iterations": 100, "fit_rms_limit_px": 3, "holdout_rms_limit_px": 5}
+}

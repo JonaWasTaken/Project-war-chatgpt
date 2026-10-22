@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "view": {"id": "", "role": "check"},
+  "reference": {
+    "path": "",
+    "sha256": "",
+    "mask_path": "",
+    "mask_sha256": "",
+    "foreground": "light",
+    "source_note": ""
+  },
+  "evidence": {"kind": "independent_photo", "independent": false},
+  "registration": {"confirmed": false, "note": ""},
+  "appearance": {
+    "color_encoding": "srgb",
+    "controlled_lighting": false,
+    "calibrated": false,
+    "note": ""
+  },
+  "regions": [{"id": "", "mask_path": "", "mask_sha256": ""}]
+}

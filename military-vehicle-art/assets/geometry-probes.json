@@ -1,0 +1,63 @@
+{
+  "schema_version": 1,
+  "scene": null,
+  "view_layer": null,
+  "evaluation_frame": null,
+  "units": "m",
+  "checks": [
+    {
+      "id": "dimensions",
+      "type": "dimensions",
+      "objects": [],
+      "frame": {"kind": "object", "object": null},
+      "target": {
+        "dimensions_m": null,
+        "tolerance_m": null,
+        "basis": {"kind": null, "note": null, "sha256": null}
+      }
+    },
+    {
+      "id": "datum",
+      "type": "datum",
+      "landmark": {"object": null, "point": "origin"},
+      "axis": null,
+      "frame": {"kind": "object", "object": null},
+      "target": {
+        "position_m": null,
+        "position_tolerance_m": null,
+        "direction": null,
+        "angle_tolerance_deg": null,
+        "basis": {"kind": null, "note": null, "sha256": null}
+      }
+    },
+    {
+      "id": "clearance",
+      "type": "clearance",
+      "from_object": null,
+      "to_object": null,
+      "frame": {"kind": "object", "object": null},
+      "max_distance_m": null,
+      "epsilon_m": null,
+      "samples": [{"id": "sample", "origin_m": null, "direction": null}],
+      "target": {
+        "gap_m": null,
+        "tolerance_m": null,
+        "basis": {"kind": null, "note": null, "sha256": null}
+      }
+    },
+    {
+      "id": "thickness",
+      "type": "thickness",
+      "object": null,
+      "frame": {"kind": "object", "object": null},
+      "max_distance_m": null,
+      "epsilon_m": null,
+      "samples": [{"id": "sample", "origin_m": null, "direction": null}],
+      "target": {
+        "thickness_m": null,
+        "tolerance_m": null,
+        "basis": {"kind": null, "note": null, "sha256": null}
+      }
+    }
+  ]
+}

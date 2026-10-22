@@ -1,0 +1,21 @@
+{
+  "mode": "design_review",
+  "model_version": "",
+  "source_sha256": "",
+  "reference_paths": [],
+  "diagnostic_scope": "",
+  "metrics_finding": "",
+  "metrics_report": {"path": "", "sha256": ""},
+  "accepted_design": {"path": "", "sha256": ""},
+  "design_checks": [],
+  "approval": {
+    "status": "pending",
+    "gate": "design_review",
+    "model_version": "",
+    "source_sha256": "",
+    "accepted_design_sha256": "",
+    "reference": "",
+    "scope": "",
+    "evidence": {"path": "", "sha256": ""}
+  }
+}

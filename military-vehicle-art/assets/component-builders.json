@@ -1,0 +1,27 @@
+{
+  "schema_version": 1,
+  "collection": null,
+  "components": [
+    {
+      "kind": "lathe",
+      "object_name": null,
+      "mesh_name": null,
+      "origin": null,
+      "segments": null,
+      "mode": null,
+      "profile": [],
+      "smooth_angle_degrees": null
+    },
+    {
+      "kind": "tube",
+      "object_name": null,
+      "mesh_name": null,
+      "origin": null,
+      "segments": null,
+      "radius": null,
+      "path": [],
+      "frame_up": null,
+      "caps": null
+    }
+  ]
+}

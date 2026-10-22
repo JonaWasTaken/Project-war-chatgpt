@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "meters_per_blender_unit": null,
+  "limits": {"triangles": 1000, "overlap_pairs": 100000, "seam_samples": 100000},
+  "overlap": {"scope": "within_object_material_region", "area_epsilon": 1e-12},
+  "seams": {"samples_per_edge": 16, "inset_fraction": 0.001, "discontinuity_threshold": 0.1},
+  "targets": [
+    {"object": null, "uv_map": null, "regions": [
+      {"material": null, "uv_policy": "single_1001", "texture": {
+        "path": null, "sha256": null, "size": null,
+        "role": "color", "color_space": "srgb", "wrap": "clamp"
+      }}
+    ]}
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "schema_version": 1,
+  "master": {
+    "object": "REPLACE_WITH_PREPARED_MASTER_OBJECT",
+    "approved": false,
+    "approval_note": "UNAPPROVED TEMPLATE. Fictional generic illustrative loop, not historical measurements. Replace with the actual source-master preparation and visual-approval note."
+  },
+  "collection": "IllustrativeTrack_Left_v001",
+  "prefix": "IllustrativeLink_Left_v001",
+  "path": {
+    "x": 1.6,
+    "yz": [
+      [-2.0, 0.15],
+      [2.0, 0.15],
+      [2.5, 0.5],
+      [2.5, 1.2],
+      [2.0, 1.55],
+      [0.0, 1.45],
+      [-2.0, 1.55],
+      [-2.5, 1.2],
+      [-2.5, 0.5]
+    ]
+  },
+  "count": 48,
+  "phase": 0.0
+}
